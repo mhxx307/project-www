@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\PC\Documents\WWW\Nhom12_WWW_ver2\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1626540618.index
+2860800634.index
+1887916850.index
+2755360960.index
+4143044095.index
+2588482599.index
+1655560355.index

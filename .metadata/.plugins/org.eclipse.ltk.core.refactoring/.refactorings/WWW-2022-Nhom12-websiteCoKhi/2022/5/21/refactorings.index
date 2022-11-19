@@ -1,0 +1,48 @@
+1652615978589	Delete element
+1652697245695	Move 'list-products.jsp' to 'product'
+1652697390324	Move 'product-form.jsp' to 'product'
+1652697435183	Move 'home-page.jsp' to 'page'
+1652697475516	Move 'cart-page.jsp' to 'page'
+1652697851673	Move 'login-page.jsp' to 'page'
+1652697977720	Move 3 resources to 'register'
+1652711103642	Delete element
+1652711640341	Delete element
+1652712167151	Delete element
+1652712172141	Rename resource 'product-form1.jsp'
+1652713867927	Delete element
+1652800762857	Rename package 'filter'
+1652800775215	Rename package 'com.iuh.nhòm.filter'
+1652801193082	Rename type 'StorageConfig'
+1652801247866	Move compilation units
+1652803665421	Pull up members to 'StorageService'
+1652804249572	Delete element
+1652804678789	Delete element
+1652841221582	Delete element
+1652841592118	Delete element
+1652841625276	Delete elements
+1652841710211	Delete element
+1652841998678	Delete element
+1652846599508	Delete element
+1652846759334	Delete element
+1652847222341	Delete element
+1652855822700	Delete elements
+1652885761318	Rename resource 'recomment-page.jsp'
+1652931858455	Delete element
+1652931953303	Move compilation unit
+1652931965789	Delete element
+1652938660555	Rename type 'LoginController'
+1652938821616	Move 2 resources to 'manager'
+1652941001832	Copy compilation unit
+1652941287701	Delete element
+1652943005929	Delete element
+1652943109760	Rename resource 'authenticate'
+1652943127854	Delete element
+1652945909827	Rename resource 'forget_password-page.jsp'
+1652946759728	Delete element
+1653022958611	Rename resource 'information-form.jsp'
+1653022999980	Rename resource 'information-user-page.jsp'
+1653051287511	Rename resource 'manager.css'
+1653056476998	Delete element
+1653056493633	Delete element
+1653058180074	Delete element
+1653101133778	Delete elements
